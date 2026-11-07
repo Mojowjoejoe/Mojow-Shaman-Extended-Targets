@@ -1,0 +1,32 @@
+## Interface: 16001
+## Title: Mojow Assist
+## Notes: Experimental PvP group assist. Each player clicks or presses their own key.
+## Author: By Mojow
+## Version: 0.9.44-test
+## SavedVariables: MojowAssistDB
+## OptionalDeps: Blizzard_AuraContainer
+Model.lua
+Appearance.lua
+Panel.lua
+AssistAction.lua
+MinimapButton.lua
+EnemyRoster.lua
+NearbyHealing.lua
+PetBars.lua
+HealingSettings.lua
+DispelHelper.lua
+NativeDispelDisplay.lua
+NativeRaidMarker.lua
+HealPrediction.lua
+EnemyPanel.lua
+NativeShieldDisplay.lua
+ShieldHelper.lua
+GhostWolf.lua
+VisibilityOptions.lua
+NameplateProfile.lua
+WorldNameplateBadges.lua
+TotemModel.lua
+TotemPanel.lua
+PullMarkers.lua
+MarkerBar.lua
+Runtime.lua

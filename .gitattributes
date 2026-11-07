@@ -1,0 +1,5 @@
+*.lua -text
+*.toc -text
+*.xml -text
+*.md text eol=lf
+*.py text eol=lf
